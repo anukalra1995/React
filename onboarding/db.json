@@ -1,0 +1,25 @@
+{
+  "logindata": [
+    {
+      "username": "admin",
+      "password": "Asdf12345"
+    }
+  ],
+  "formdata": [
+    {
+      "id": 1,
+      "Name": "Anu Kalra",
+      "Category": "Domestic",
+      "dob": "2021-02-02",
+      "fname": "Sagar",
+      "mname": "Tarachand",
+      "score": "30",
+      "documents": [
+        "Domicile",
+        "Birth Certificate",
+        "Marksheet",
+        "Declaration"
+      ]
+    }
+  ]
+}

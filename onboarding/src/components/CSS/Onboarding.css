@@ -1,0 +1,32 @@
+.forms {
+  border: 1px solid black;
+  padding-top: "20px";
+  margin: 0rem 3rem 2rem 3.2rem;
+}
+
+form {
+  padding-top: 40px;
+}
+#label {
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+
+#name {
+  width: 30%;
+  margin-left: 15px;
+}
+
+#labels {
+  margin-left: 6rem;
+}
+
+#span {
+  margin-right: 5rem;
+}
+#spans {
+  margin-right: 40px;
+}
+#spaned {
+  margin-right: 7rem;
+}

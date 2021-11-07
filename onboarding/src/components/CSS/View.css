@@ -1,0 +1,21 @@
+.form {
+  border: 1px solid black;
+  padding-top: "20px";
+  margin: 0rem 3rem 2rem 3.2rem;
+  background: blanchedalmond;
+}
+
+form {
+  padding-top: 40px;
+}
+
+#names {
+  width: 30%;
+  margin-left: 15px;
+  text-align: center;
+}
+
+#categorys {
+  width: 98.5%;
+  text-align: center;
+}
